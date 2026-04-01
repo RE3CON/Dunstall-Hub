@@ -121,15 +121,40 @@ That supports a narrow, evidence-led statement:
 | `assets/*.png` | README visual assets |
 
 ---
+## Demand Node Primary Barrier HopeTex "Solution"
+Pakistan No PayPal / No Stripe "UK Ltd + Verified PayPal" (Managed via Jhang Software House)
+Nigeria Restricted PayPal / High Risk IP "UK SIM + UK Virtual Office"
+Bangladesh No PayPal Business "
 
-## Suggested upload order
+## Layer Primary SIC Codes Role in Infrastructure
+Retail Facade 47910 (Retail via Internet) Public-facing storefronts like ezonesglobal.com. Used to set up merchant accounts.
+Logistics Node 52290 (Transport Support) Issuing fraudulent tracking numbers and manipulating carrier APIs to win disputes.
+Technical Hub 63120 (Web Portals) Building and hosting the portal infrastructure (e.g., Geek Axon Ltd).
+Payment Buffer 62020 (IT Consultancy) Centralized clearinghouses (e.g., Net Fusion Tech) that justify large volumes as "fees."
+Compliance Shield 69201 (Accounting) Acting as verification bridges to self-certify foreign directors (e.g., HopeTex).
+Content Node 73110 (Advertising) Generating fake reviews and managing SEO to drown out scam reports ("Brand Noise").
 
-1. Upload `assets/`
-2. Replace `README.md`
-3. Upload the PDF
-4. Upload the relationship matrix CSV
-5. Upload the enriched cluster CSV
-6. Add the release notes text to the GitHub release body
+
+## Case Study: The eZone Global Infrastructure
+​The "eZone" brand (operating via ezonesglobal.com, ezonesglobal.us, and ezoneglobal.com) represents the primary retail and recruitment arm of the network.
+​Retail Theft and Weight Spoofing
+​Victims report ordering high-value equipment—such as snow blowers ($870) or gas ranges ($367.50)—that are never delivered. A forensic hallmark of this group is the manipulation of carrier APIs (e.g., FedEx) to spoof package weights. 
+​The Tactic: Scammers declare a 1,000kg shipment for a 300g envelope.
+​The Result: When a victim files a Stripe or PayPal dispute, the merchant provides tracking data showing a heavy-duty delivery to the victim's zip code. Automated resolution systems prioritize this carrier data, ruling in favor of the scammer and leaving the victim without recourse. 
+
+## ​Recruitment Scams: eZone Staffing
+​The group operates "eZone Staffing," targeting professionals on LinkedIn and Monster.com. Recruiters use Western aliases (e.g., "Shawn Connor") but speak with heavy South Asian accents. They push victims to provide resumes in Microsoft Word format to facilitate easy alteration for corporate identity theft or to bid on government contracts using stolen credentials. 
+
+## Identity Laundering Pipeline: Global Demand Nodes
+​OSINT mirroring identifies a clear pipeline where the Dunstall Hill hub acts as the "Processing Node," converting foreign identities into "Verified UK/US Entities" to bridge the "Financial Access Gap."
+Demand Node Primary Barrier HopeTex "Solution"
+Pakistan No PayPal / No Stripe "UK Ltd + Verified PayPal" (Managed via Jhang Software House)
+Nigeria Restricted PayPal / High Risk IP "UK SIM + UK Virtual Office"
+Bangladesh No PayPal Business "UK Agency Status" for high-paying contracts
+Turkey PayPal License Ban "UK Mirror" for Etsy/eBay sellers
+
+## Strategic Conclusion
+​The Dunstall Hill infrastructure is a prototype for the future of transnational financial crime. By internalizing every component of the fraud stack—from identity verification via HopeTex to technical development via Geek Axon and payment processing via Net Fusion—the syndicate has automated the creation of "trust." Disruption must focus on these anchor nodes rather than disposable retail fronts, as the network is currently adding 2-4 new LTDs daily at this address to maintain redundancy.
 
 ---
 
