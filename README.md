@@ -1,5 +1,6 @@
 # Project Dunstall Mirror
 ## Ezone Global / HopeTex / Net Fusion update
+<img width="1536" height="1024" alt="1000411422" src="https://github.com/user-attachments/assets/693e4428-1ccf-454a-a92d-a04785c13815" />
 
 **Release target:** `v2026.04.01-ezone-hopetex-update`  
 **Repository:** `RE3CON/Project-Dunstall-Mirror`  
