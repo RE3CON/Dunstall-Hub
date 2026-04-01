@@ -148,24 +148,24 @@ Content Node 73110 (Advertising) Generating fake reviews and managing SEO to dro
 ## Identity Laundering Pipeline: Global Demand Nodes
 ​OSINT mirroring identifies a clear pipeline where the Dunstall Hill hub acts as the "Processing Node," converting foreign identities into "Verified UK/US Entities" to bridge the "Financial Access Gap."
 Demand Node Primary Barrier HopeTex "Solution"
-Demand Node
-Pakistan
+
+# Pakistan
 Primary Barrier
 No PayPal / limited Stripe availability
 Typical Formation-Service Solution
 “UK Ltd + Verified PayPal” (often marketed via offshore software-house intermediaries such as Jhang-based setups)
 
-Nigeria
+# Nigeria
 Restricted PayPal receiving / high-risk IP reputation
 Typical Formation-Service Solution
 “UK SIM + UK Virtual Office + UK merchant identity”
 
-Bangladesh
+# Bangladesh
 No PayPal Business access
 Typical Formation-Service Solution
 “UK Agency Status” for international contract bidding and Stripe billing
 
-Egypt
+# Egypt
 Foreign-currency controls + outbound transfer restrictions
 Typical Formation-Service Solution
 “UK fintech banking (GBP) + merchant entity mirror”
