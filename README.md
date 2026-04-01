@@ -156,6 +156,26 @@ Turkey PayPal License Ban "UK Mirror" for Etsy/eBay sellers
 ## Strategic Conclusion
 ​The Dunstall Hill infrastructure is a prototype for the future of transnational financial crime. By internalizing every component of the fraud stack—from identity verification via HopeTex to technical development via Geek Axon and payment processing via Net Fusion—the syndicate has automated the creation of "trust." Disruption must focus on these anchor nodes rather than disposable retail fronts, as the network is currently adding 2-4 new LTDs daily at this address to maintain redundancy.
 
+## Anchor Node Analysis: The HopeTex Verification Loop
+​The group has effectively hijacked the UK's trust mechanism by registering HopeTex Limited (14684061) as an Authorised Corporate Service Provider (ACSP) supervised by HMRC. HopeTex performs "identity verification" for other members of the syndicate, creating a closed loop of circular trust. 
+​Key Verified Personnel (Pakistani Nationals):
+
+Arbab Arbab: Verified by HopeTex for The Elite Prime Store Ltd. 
+Arifa Rehan: Verified by HopeTex for Office 801. 
+Munir Ahmed: Verified by HopeTex for Office 840. 
+Muhammad Saad Abbasi: Verified by HopeTex for Codifyrsolutions Ltd.1 
+
+## Analyst Attachment List: Priority Investigative Nodes
+​This table serves as a prioritized manual review list for financial crime investigators.
+
+# Office Entity Name SIC Code Priority Hypothesis / Review Note
+1 Hub HopeTex Limited 82990 CRITICAL Master identity laundry node; ACSP self-verification engine.
+2 372 Net Fusion Tech Services 62020 CRITICAL Central payment processor for ezonesglobal and global "Fake Shops."
+3 178 Geek Axon Ltd 63120 HIGH Technical lead; builds and hosts portals for the entire syndicate.
+4 7777 Friend Formation Ltd 69201 HIGH Managed by Imran Hyder; administrative buffer for mass filings.
+5 695 Ezone Supply Partners 47910 HIGH Primary retail front link; verified via Smartledger ACSP.
+6 8 Zingo Writers Ltd 73110 MEDIUM Content hub for fake reviews and dispute manipulation.
+7 228 24/7 Support Private Ltd 82990 MEDIUM History of address removals (RP05); used to delay refund windows.
 ---
 
 ## Working note
