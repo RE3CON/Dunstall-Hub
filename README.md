@@ -1,4 +1,104 @@
 # Project Dunstall Mirror
+![1000411434](https://github.com/user-attachments/assets/3f759e98-d4d8-4390-acd5-f7bcf23b6c65)
+A standard residential property used as a registered office address for 900+ UK Limited companies, representing a ## Visual Reference: 85 Dunstall Hill Registration Density
+
+![85 Dunstall Hill – 900+ companies registered](assets/wolverhampton_hub_map.png)
+
+**Conceptual illustration:** 
+
+The visualization highlights:
+
+- mailbox-style corporate presence
+- stacked “virtual office” identity layering
+- registry-level scaling beyond physical capacity
+- separation between **legal registration footprint** and **operational footprint**
+
+This pattern is consistent with:
+
+- formation-agent address hosting
+- nominee / proxy director infrastructure
+- merchant-of-record abstraction layers
+- cross-border payment-rail access packaging
+- **mobile-number / SIM provisioning pathways**
+- **UK telecom-linked onboarding support**
+- **phone-verification infrastructure for merchant and fintech accounts**
+
+---
+
+## OSINT Interpretation Layer
+
+The address functions as a **corporate identity aggregation point**, enabling:
+
+foreign operator identity  
+→ UK registered entity  
+→ address hosting  
+→ **UK mobile number / SIM access**  
+→ payment processor onboarding  
+→ merchant storefront deployment  
+→ dispute-stage delivery evidence handling
+
+Such hubs commonly appear in:
+
+- fintech onboarding pathways
+- remote-operator ecommerce structures
+- cross-jurisdiction freelancer payment bridges
+- high-volume incorporation service pipelines
+- **SIM-backed account verification chains**
+
+Observed entity types (extended):
+
+• IT services
+• SEO agencies
+• logistics shells
+• ecommerce operators
+• formation intermediaries
+• payment-linked service entities
+• telecom / SIM provisioning nodes
+• shipping-label generation intermediaries
+• carrier-account-enabled fulfillment brokers
+
+--
+
+## Mobile / SIM Layer
+
+A relevant supporting layer in this model is the use of **UK mobile phone numbers and SIM-linked verification**, especially where package offerings explicitly mention:
+
+- UK mobile number
+- physical SIM or eSIM
+- phone-based onboarding support
+- account verification assistance
+
+Analytically, this may intersect with:
+
+- **O2 and other mobile phone / telecom retail channels**
+- SIM resellers
+- handset / phone shops
+- prepaid number acquisition
+- OTP / SMS verification infrastructure
+
+This does **not** by itself prove misuse by any specific telecom provider or shop.  
+It should be read as an **infrastructure hypothesis** tied to the role of UK-number availability in merchant-account setup, payment verification, and account recovery flows.
+
+---
+
+## Dataset Indicator
+
+Current cluster observation:
+
+Address: 85 Dunstall Hill  
+Location: Wolverhampton, UK  
+Estimated registrations: 900+  
+
+Observed entity types:
+- IT services
+- SEO agencies
+- logistics shells
+- ecommerce operators
+- formation intermediaries
+- payment-linked service entities
+- **mobile phone / telecom support entities**
+- **SIM-linked verification or phone-number service nodes**
+
 ## Ezone Global / HopeTex / Net Fusion update
 <img width="1536" height="1024" alt="1000411422" src="https://github.com/user-attachments/assets/693e4428-1ccf-454a-a92d-a04785c13815" />
 
