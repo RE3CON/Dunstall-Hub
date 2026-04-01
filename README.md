@@ -76,13 +76,13 @@ That supports a narrow, evidence-led statement:
 ## Visuals
 
 ### HopeTex package stack
-![HopeTex package stack](assets/hopetex_package_stack.png)
+![HopeTex package stack](hopetex_package_stack.png)
 
 ### Ezone customer flow
-![Ezone customer flow](assets/ezone_customer_flow.png)
+![Ezone customer flow](ezone_customer_flow.png)
 
 ### Wolverhampton hub map
-![Wolverhampton hub map](assets/wolverhampton_hub_map.png)
+![Wolverhampton hub map](wolverhampton_hub_map.png)
 
 ---
 
