@@ -2,7 +2,7 @@
 ![1000411434](https://github.com/user-attachments/assets/3f759e98-d4d8-4390-acd5-f7bcf23b6c65)
 A standard residential property used as a registered office address for 900+ UK Limited companies, representing a ## Visual Reference: 85 Dunstall Hill Registration Density
 
-![85 Dunstall Hill – 900+ companies registered](assets/wolverhampton_hub_map.png)
+![85 Dunstall Hill – 900+ companies registered]([assets/wolverhampton_hub_map.png](https://github.com/RE3CON/Dunstall-Hub/blob/main/85_Dunstall_Hill_COMPLETE_OSINT_merged_LOGISTICS_LAYER_2026-04-01.csv)
 
 **Conceptual illustration:** 
 
