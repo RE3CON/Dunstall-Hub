@@ -203,6 +203,8 @@ That supports a narrow, evidence-led statement:
   - fake or mismatched FedEx tracking,
   - different delivery addresses,
   - unresponsive support.
+<img width="1536" height="1024" alt="1000411481" src="https://github.com/user-attachments/assets/893b6aaf-e598-46df-a7ac-03839329527e" />
+<img width="1024" height="1536" alt="1000411482" src="https://github.com/user-attachments/assets/e4d3d57e-aa5c-4e31-b937-0354b0152841" />
 
 ### Low-confidence / watchlist findings
 - `Ezone Supply Partners Limited` appears in the cluster CSV by name, but no direct public bridge to `ezonesglobal` was verified in this pass.
