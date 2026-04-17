@@ -25,7 +25,7 @@ This pattern is consistent with:
 - **mobile-number / SIM provisioning pathways**
 - **UK telecom-linked onboarding support**
 - **phone-verification infrastructure for merchant and fintech accounts**
-
+- **ACSP / verifier note:** From the Companies House materials reviewed, is that HopeTex has acted in a corporate services / verification capacity in relation to other entities.
 ---
 
 ## OSINT Interpretation Layer
